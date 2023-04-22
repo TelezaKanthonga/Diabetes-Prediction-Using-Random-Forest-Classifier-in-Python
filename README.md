@@ -19,6 +19,7 @@ The dataset used for training and testing the model is the Pima Indians Diabetes
 - The random forest classifier is trained with 100 estimators and a random state of 0.
 
 #Usage
+
 You can run the code on Google Colaboratory or Jupyter Notebook after installing the required packages.
 After running the code, you will see the accuracy score of the trained model on the test dataset. 
 The current implementation of the notebook achieved an accuracy of 0.90.
